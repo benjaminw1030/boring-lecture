@@ -1,20 +1,8 @@
-h2.intro {
+.intro {
   font-weight: bold;
   text-align: center;
   color: indigo;
-}
-
-p.intro {
-  font-style: italic;
-  text-align: center;
-  width: 60%;
   margin-left: auto;
   margin-right: auto;
-}
-
-img.intro {
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  width: 75%;
 }
